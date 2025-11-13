@@ -16,7 +16,7 @@ The Canary Islands (Spain) are located ~100 km from the nearest point to the nor
 <p><br></p>
 <!-- ![What is this](Map-Figure.png) -->
 <b>Figure 1</b>. Geographical location of the Canary Islands.
-<br>
+<p><br></p>
 
 Many studies have established the grounds to increase the diversity in catalogs of genetic variation to optimally represent population-specific particularities and to support Personalized Medicine strategies across populations worldwide. For that, different countries have developed their own genetic variation catalogs or have conducted extensive genetic studies in control individuals for building local population reference catalogs of genetic diversity. In Spain, a pioneer study of Galicians and Andalusians highlighted the need to establish local population catalogs specifically in this country (<a href="#2">2</a>). Based on this and the particular genetic makeup of the current Canary Islands populations (<a href="#1">1</a>), we are developing CIRdb as a detailed sequence-based reference catalog of genetic variation to allow disentangling population specificities with biomedical impact.
 
