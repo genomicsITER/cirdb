@@ -182,11 +182,17 @@ Studies are ongoing. Results to be announced.
 
 ## References
 1: Guillen-Guio B, Lorenzo-Salazar JM, González-Montelongo R, Díaz-de Usera A, Marcelino-Rodríguez I, Corrales A, Cabrera de León A, Alonso S, Flores C. Genomic Analyses of Human European Diversity at the Southwestern Edge: Isolation, African Influence and Disease Associations in the Canary Islands. Mol Biol Evol. 2018 Dec 1;35(12):3010-3026. doi: https://doi.org/10.1093/molbev/msy190
+
 2: Dopazo J, Amadoz A, Bleda M, Garcia-Alonso L, Alemán A, García-García F, Rodriguez JA, Daub JT, Muntané G, Rueda A, Vela-Boza A, López-Domingo FJ, Florido JP, Arce P, Ruiz-Ferrer M, Méndez-Vidal C, Arnold TE, Spleiss O, Alvarez-Tejado M, Navarro A, Bhattacharya SS, Borrego S, Santoyo-López J, Antiñolo G. 267 Spanish Exomes Reveal Population-Specific Differences in Disease-Related Genetic Variation. Mol Biol Evol. 2016 May;33(5):1205-18. doi: https://doi.org/10.1093/molbev/msw005
+
 3: Díaz-de Usera A, Rubio-Rodríguez LA, Muñoz-Barrera A, Lorenzo-Salazar JM, Guillen-Guio B, Jáspez D, Corrales A, Íñigo-Campos A, García-Olivares V, Rodríguez Pérez MDC, Marcelino-Rodríguez I, Cabrera de León A, González-Montelongo R, Flores C. Developing CIRdb as a catalog of natural genetic variation in the Canary Islanders. Sci Rep. 2022 Sep 27;12(1):16132. doi: https://doi.org/10.1038/s41598-022-20442-x
+
 4: García-Olivares V, Muñoz-Barrera A, Lorenzo-Salazar JM, Zaragoza-Trello C, Rubio-Rodríguez LA, Díaz-de Usera A, Jáspez D, Iñigo-Campos A, González-Montelongo R, Flores C. A benchmarking of human mitochondrial DNA haplogroup classifiers from whole-genome and whole-exome sequence data. Sci Rep. 2021 Oct 15;11(1):20510. doi: https://doi.org/10.1038/s41598-021-99895-5
+
 5: García-Olivares V, Rubio-Rodríguez LA, Muñoz-Barrera A, Díaz-de Usera A, Jáspez D, Iñigo-Campos A, Rodríguez Pérez MDC, Cabrera de León A, Lorenzo-Salazar JM, González-Montelongo R, Cabrera VM, Flores C. Digging into the admixture strata of current-day Canary Islanders based on mitogenomes. iScience. 2022 Dec 29;26(1):105907. doi: https://doi.org/10.1016/j.isci.2022.105907
+
 6: Muñoz-Barrera A, Rubio-Rodríguez LA, Jáspez D, Corrales A, Marcelino-Rodriguez I, Ortiz L, Mendoza P, Lorenzo-Salazar JM, González-Montelongo R, Flores C. Benchmarking of bioinformatics tools for the hybrid de novo assembly of human and non-human whole-genome sequencing data. Comput Struct Biotechnol J. 2025 Jul 13;27:3099-3109. doi: https://doi.org/10.1016/j.csbj.2025.07.020
+
 7: Diaz-de Usera A, Rubio-Rodriguez LA, Muñoz-Barrera A, Lorenzo-Salazar JM, Guillen-Guio B, Jaspez D, Corrales A, Marcelino-Rodriguez I, Rodriguez-Perez M.C., Cabrera-de Leon A, Gonzalez-Montelongo R, Cruz-Guerrero R, Carracedo A, Carlos Flores. Expanding CIRdb, a comprehensive catalog of whole-exome sequencing data of Canary Islanders. MedRxiv 2025.
 
 <p align="right">
