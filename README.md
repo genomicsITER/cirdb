@@ -16,6 +16,7 @@ The Canary Islands (Spain) are located ~100 km from the nearest point to the nor
 <p><br></p>
 <!-- ![What is this](Map-Figure.png) -->
 <b>Figure 1</b>. Geographical location of the Canary Islands.
+<br>
 
 Many studies have established the grounds to increase the diversity in catalogs of genetic variation to optimally represent population-specific particularities and to support Personalized Medicine strategies across populations worldwide. For that, different countries have developed their own genetic variation catalogs or have conducted extensive genetic studies in control individuals for building local population reference catalogs of genetic diversity. In Spain, a pioneer study of Galicians and Andalusians highlighted the need to establish local population catalogs specifically in this country (<a href="#2">2</a>). Based on this and the particular genetic makeup of the current Canary Islands populations (<a href="#1">1</a>), we are developing CIRdb as a detailed sequence-based reference catalog of genetic variation to allow disentangling population specificities with biomedical impact.
 
@@ -55,6 +56,7 @@ The first genetic study of CIRdb relied on SNP array data as a first stage to ef
 <p><br></p>
 <!-- ![What is this](CIRdb-Figure.png) -->
 <b>Figure 2</b>. Overall schematic representation of the technologies and sample estimates projected for developing CIRdb.
+<br>
 
 <p align="right">
   <a href="#CIRdb" title="Up">
@@ -80,6 +82,7 @@ Given that mitogenomes at full resolution and high quality can be effectively re
 <p><br></p>
 <!-- ![What is this](AdmixtureMap-Figure.png) -->
 <b>Figure 3</b>. Maternal genetic contributions of continental populations based on the mtDNA sequence matching between the Canary Islands and African and European populations (EH: El Hierro; LP: La Palma; LG: La Gomera; TF: Tenerife; GC: Gran Canaria; FT: Fuerteventura; LZ: Lanzarote).
+<br>
 
 <p align="right">
   <a href="#CIRdb" title="Up">
@@ -104,6 +107,7 @@ Accurate reconstruction of individual human genomes is key as the Precision Medi
 <p><br></p>
 <!-- ![What is this](Benchmarking&Pipeline-Figure.png) -->
 <b>Figure 4</b>. Schematic diagram of A) the benchmarking study conducted and B) the de novo genome assembly pipeline developed for the on-going studies.
+<br>
 
 <p align="right">
   <a href="#CIRdb" title="Up">
@@ -127,6 +131,7 @@ One central aim of the project has been to catalog the variation affecting exoni
 <p><br></p>
 <!-- ![What is this](WES-variants-Figure.png) -->
 <b>Figure 5</b>. Distribution of whole-exome sequencing variants found in CIRdb based on genomic region and impact classification provided by Ensembl VEP.
+<br>
 
 A total of 15.1% of the whole-exome variants were categorized as novel at the time the analyses were conducted, emphasizing the key necessity for developing a population-specific catalog of genetic diversity in this archipelago. Based on distinct variant annotations, we identify genetic variation that could have significant biomedical implications for prevalent diseases, including metabolic, infectious, and respiratory diseases, among others, and in skin pigmentation and sunburn. As we have previously shown (1), we also confirm that the populations from El Hierro and La Gomera behave as outliers in terms of genetic diversity and isolation.
 
