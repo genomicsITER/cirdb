@@ -11,7 +11,7 @@
 The Canary Islands (Spain) are located ~100 km from the nearest point to the northwest African coast, with a population at the southwestern edge of Europe (Map-Figure). Before their conquest by Europeans in the 15th century, the archipelago was inhabited by aborigines for which diverse evidence supports an ancestral origin in the Berber population from North Africa. After the conquest and their incorporation to the Kingdom of Castile, the population of the Canary Islands was subject to important events of admixture and displacement of aboriginals by European populations and the slavery. The current Canary Islanders are nowadays a genetically admixed population for whom three main ancestries have been recognized: European (EUR), North African (NAF), and sub-Saharan African (SSA). Genetic isolation, the effects of sexual asymmetry evidenced by the historically progressive decrease in male indigenous lineages, and local adaptation events that may took place, have finally modeled a particular Canary Islander genetic makeup with an average of 75-83% of EUR ancestry, 17-23% NAF component, and 2% or less of SSA ancestry (1).
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/cirdb/blob/images/Map-Figure.png" width="auto"/>
+  <img src="images/Map-Figure.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](Map-Figure.png) -->
