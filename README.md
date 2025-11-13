@@ -11,7 +11,7 @@
 The Canary Islands (Spain) are located ~100 km from the nearest point to the northwest African coast, with a population at the southwestern edge of Europe (Map-Figure). Before their conquest by Europeans in the 15th century, the archipelago was inhabited by aborigines for which diverse evidence supports an ancestral origin in the Berber population from North Africa. After the conquest and their incorporation to the Kingdom of Castile, the population of the Canary Islands was subject to important events of admixture and displacement of aboriginals by European populations and the slavery. The current Canary Islanders are nowadays a genetically admixed population for whom three main ancestries have been recognized: European (EUR), North African (NAF), and sub-Saharan African (SSA). Genetic isolation, the effects of sexual asymmetry evidenced by the historically progressive decrease in male indigenous lineages, and local adaptation events that may took place, have finally modeled a particular Canary Islander genetic makeup with an average of 75-83% of EUR ancestry, 17-23% NAF component, and 2% or less of SSA ancestry (1).
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/cirdb/images/Map-Figure.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/cirdb/blob/images/Map-Figure.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](Map-Figure.png) -->
@@ -32,7 +32,7 @@ Many studies have established the grounds to increase the diversity in catalogs 
  
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ The CIRdb cohort was obtained from a total of 1,024 samples that were selected f
 The first genetic study of CIRdb relied on SNP array data as a first stage to efficiently characterize the global and local ancestry components of the cohort individuals, local substructure and inbreeding patterns. It also detected individuals that had cryptic family relationships with others in the cohort, allowing us to prioritize the samples for ulterior approaches. Finally, the study set the grounds for the overall design and methods to build the catalog, including combining whole-exome and whole-genome sequencing strategies to efficiently examine variation affecting gene coding regions while complimentary approaches in subsets of individuals were projected to cover non-exonic regions and to assess structural variation and alike, which are particularly beneficial to assess medically-relevant genes (CIRdb-Figure).
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/cirdb/images/CIRdb-Figure.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/cirdb/blob/images/CIRdb-Figure.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](CIRdb-Figure.png) -->
@@ -56,7 +56,7 @@ The first genetic study of CIRdb relied on SNP array data as a first stage to ef
 
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@ Pioneer genetic studies of mitochondrial DNA (mtDNA) in the late nineties eviden
 Given that mitogenomes at full resolution and high quality can be effectively reconstructed from whole-exome and whole-genome sequences (4), we leveraged the sequence data being generated as part of CIRdb to conduct fine-grained analysis of admixture to precisely apportion the matrilineal genetic components to a level that was never achieved before (5). We notably increased the estimate of founder lineages surviving in the maternal gene pool of Canary Islanders, evidencing the continuity of a sizable proportion (nearly 50%) of the aboriginal maternal lineages in the current-day population. About half of the mtDNA lineages with sequence similarities with Iberian populations were ascribed to Galicians and Portuguese influences (AdmixtureMap-Figure). The results also supported the genetic connections between current Canary Islanders and the American continent.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/cirdb/images/AdmixtureMap-Figure.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/cirdb/blob/images/AdmixtureMap-Figure.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](AdmixtureMap-Figure.png) -->
@@ -80,7 +80,7 @@ Given that mitogenomes at full resolution and high quality can be effectively re
 
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ Given that mitogenomes at full resolution and high quality can be effectively re
 Accurate reconstruction of individual human genomes is key as the Precision Medicine paradigm shift is embraced. However, de novo assemblies of large and complex genomes remain challenging. To deploy robust bioinformatics tools for de novo genome assembly to provide a comprehensive and unbiased understanding of a patient’s DNA sequence, we have tested the performance of hybrid assemblies leveraging short- and long-read technologies on reference and CIRdb materials (6). This allowed us to identify the best performing tools for the different stages involved (Benchmarking&Pipeline-Figure) and to set up and deploy our internal pipeline for implementing de novo assembly (https://github.com/genomicsITER/hybridassembly) to be able to reveal novel structural genomic features in biomedical studies in the future.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/cirdb/images/Benchmarking&Pipeline-Figure.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/cirdb/blob/images/Benchmarking&Pipeline-Figure.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](Benchmarking&Pipeline-Figure.png) -->
@@ -104,7 +104,7 @@ Accurate reconstruction of individual human genomes is key as the Precision Medi
 
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -119,7 +119,7 @@ Accurate reconstruction of individual human genomes is key as the Precision Medi
 One central aim of the project has been to catalog the variation affecting exonic regions given the important biomedical implications of coding regions of the genome. To improve the population-specific reference catalog, we used whole-exome sequencing of the full CIRdb cohort to identify 387,555 single nucleotide variants and small indels (WES-variants-Figure). For the study (7), we complemented the analyses with paired SNP array data and additional sequencing data for regions of interest. 
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/cirdb/images/WES-variants-Figure.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/cirdb/blob/images/WES-variants-Figure.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](WES-variants-Figure.png) -->
@@ -131,7 +131,7 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
 
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -148,7 +148,7 @@ Studies are ongoing. Results to be announced.
 
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -165,7 +165,7 @@ Studies are ongoing. Results to be announced.
 
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -187,7 +187,7 @@ Studies are ongoing. Results to be announced.
 
 <p align="right">
   <a href="#CIRdb" title="Up">
-    <img src="https://github.com/genomicsITER/cirdb/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/cirdb/blob/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
