@@ -144,6 +144,8 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
 
 Studies are ongoing. Results to be announced.
 
+NOTE: add the benckmarking of Y haplogroup classifiers.
+
 <p align="right">
   <a href="#CIRdb" title="Up">
     <img src="images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
