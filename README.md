@@ -90,7 +90,7 @@ Given that mitogenomes at full resolution and high quality can be effectively re
 
 <a name="chapter3"></a>
 
-# Chapter 3. De novo genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb. 
+# Chapter 3. <i>De novo</i> genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb. 
 
 Accurate reconstruction of individual human genomes is key as the Precision Medicine paradigm shift is embraced. However, de novo assemblies of large and complex genomes remain challenging. To deploy robust bioinformatics tools for de novo genome assembly to provide a comprehensive and unbiased understanding of a patient’s DNA sequence, we have tested the performance of hybrid assemblies leveraging short- and long-read technologies on reference and CIRdb materials (<a href="#6">6</a>). This allowed us to identify the best performing tools for the different stages involved (Benchmarking&Pipeline-Figure) and to set up and deploy our internal pipeline for implementing de novo assembly (https://github.com/genomicsITER/hybridassembly) to be able to reveal novel structural genomic features in biomedical studies in the future.
 
