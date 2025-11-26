@@ -20,15 +20,15 @@ Many studies have established the grounds to increase the diversity in catalogs 
 ## Table of contents
 
 <ul>
-  <li><a href="#chapter1">Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) </a></li>
-  <li><a href="#chapter2">Chapter 2. Mitogenome-based analysis of admixture in CIRdb.</a></li>
-  <li><a href="#chapter3">Chapter 3. <i>De novo</i> genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb. </a></li>
+  <li><a href="#chapter1">Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) (September 2022)</a></li>
+  <li><a href="#chapter2">Chapter 2. Mitogenome-based analysis of admixture in CIRdb (December 2022)</a></li>
+  <li><a href="#chapter3">Chapter 3. <i>De novo</i> genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb (July 2025)</a></li>
 <!--
-  <li><a href="#chapter4">Chapter 4. Expanding CIRdb with whole-exome sequencing data.</a></li>
+  <li><a href="#chapter4">Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)</a></li>
 -->
   <!--
-  <li><a href="#chapter5">Chapter 5. Y chromosome analysis of admixture in CIRdb.</a></li>
-  <li><a href="#chapter6">Chapter 6. Whole-genome sequence analysis in CIRdb.</a></li>
+  <li><a href="#chapter5">Chapter 5. Y chromosome analysis of admixture in CIRdb (xxx 2026)</a></li>
+  <li><a href="#chapter6">Chapter 6. Whole-genome sequence analysis in CIRdb (xxx 2026)</a></li>
   -->
   <li><a href="#references">References.</a></li>
  </ul>
