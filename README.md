@@ -212,7 +212,7 @@ Studies are ongoing. Results to be announced.
 
 <!-- > Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025). -->
 
-> November 26, 2025. This repository goes public.
+> November 26, 2025. Public release of this repository. 
 
 > July 2025. Added the contents of "Chapter 3. De novo genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb".
 
