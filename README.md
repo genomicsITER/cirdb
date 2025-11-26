@@ -30,7 +30,7 @@ Many studies have established the grounds to increase the diversity in catalogs 
   <li><a href="#chapter5">Chapter 5. Y chromosome analysis of admixture in CIRdb (xyz 2026)</a></li>
   <li><a href="#chapter6">Chapter 6. Whole-genome sequence analysis in CIRdb (xyz 2026)</a></li>
   -->
-  <li><a href="#references">References.</a></li>
+  <li><a href="#references">References</a></li>
  </ul>
  
 <p align="right">
@@ -46,7 +46,8 @@ Many studies have established the grounds to increase the diversity in catalogs 
 
 <a name="chapter1"></a>
 
-# Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) (September 2022)
+# Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb)
+## (September 2022)
 The CIRdb cohort was obtained from a total of 1,024 samples that were selected from donors (483 males, 541 females) from a general population cohort of the Canary Islands. Participating individuals self-reported having at least two generations of ancestors born on the same island and a lack of a personal history of cardiovascular, metabolic, immunologic, or cancer diseases at the time of recruitment. The island assigned to each individual corresponded to the island of origin of the four grandparents (<a href="#3">3</a>).
 
 The first genetic study of CIRdb relied on SNP array data as a first stage to efficiently characterize the global and local ancestry components of the cohort individuals, local substructure and inbreeding patterns. It also detected individuals that had cryptic family relationships with others in the cohort, allowing us to prioritize the samples for ulterior approaches. Finally, the study set the grounds for the overall design and methods to build the catalog, including combining whole-exome and whole-genome sequencing strategies to efficiently examine variation affecting gene coding regions while complimentary approaches in subsets of individuals were projected to cover non-exonic regions and to assess structural variation and alike, which are particularly beneficial to assess medically-relevant genes (Fig. 2).
