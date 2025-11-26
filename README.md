@@ -210,14 +210,14 @@ Studies are ongoing. Results to be announced.
 <a name="Update logs"></a>
 ## Update logs
 
-<!-- > Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025). -->
+<!-- > </i>Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)</i>. -->
 
 > November 26, 2025. Public release of this repository. 
 
-> July 2025. Added the contents of "Chapter 3. De novo genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb".
+> July 2025. Added the contents of <i>Chapter 3. De novo genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb</i>.
 
-> December 2022. Added the contents of "Chapter 2. Mitogenome-based analysis of admixture in CIRdb".
+> December 2022. Added the contents of <i>Chapter 2. Mitogenome-based analysis of admixture in CIRdb</i>.
 
-> September 2022. Added the contents of "Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb)".
+> September 2022. Added the contents of <i>Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb)</i>.
 
 
