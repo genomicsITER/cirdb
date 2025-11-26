@@ -27,8 +27,8 @@ Many studies have established the grounds to increase the diversity in catalogs 
   <li><a href="#chapter4">Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)</a></li>
 -->
   <!--
-  <li><a href="#chapter5">Chapter 5. Y chromosome analysis of admixture in CIRdb (xxx 2026)</a></li>
-  <li><a href="#chapter6">Chapter 6. Whole-genome sequence analysis in CIRdb (xxx 2026)</a></li>
+  <li><a href="#chapter5">Chapter 5. Y chromosome analysis of admixture in CIRdb (xyz 2026)</a></li>
+  <li><a href="#chapter6">Chapter 6. Whole-genome sequence analysis in CIRdb (xyz 2026)</a></li>
   -->
   <li><a href="#references">References.</a></li>
  </ul>
@@ -46,7 +46,7 @@ Many studies have established the grounds to increase the diversity in catalogs 
 
 <a name="chapter1"></a>
 
-# Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) 
+# Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) (September 2022)
 The CIRdb cohort was obtained from a total of 1,024 samples that were selected from donors (483 males, 541 females) from a general population cohort of the Canary Islands. Participating individuals self-reported having at least two generations of ancestors born on the same island and a lack of a personal history of cardiovascular, metabolic, immunologic, or cancer diseases at the time of recruitment. The island assigned to each individual corresponded to the island of origin of the four grandparents (<a href="#3">3</a>).
 
 The first genetic study of CIRdb relied on SNP array data as a first stage to efficiently characterize the global and local ancestry components of the cohort individuals, local substructure and inbreeding patterns. It also detected individuals that had cryptic family relationships with others in the cohort, allowing us to prioritize the samples for ulterior approaches. Finally, the study set the grounds for the overall design and methods to build the catalog, including combining whole-exome and whole-genome sequencing strategies to efficiently examine variation affecting gene coding regions while complimentary approaches in subsets of individuals were projected to cover non-exonic regions and to assess structural variation and alike, which are particularly beneficial to assess medically-relevant genes (Fig. 2).
@@ -69,7 +69,7 @@ The first genetic study of CIRdb relied on SNP array data as a first stage to ef
 
 <a name="chapter2"></a>
 
-# Chapter 2. Mitogenome-based analysis of admixture in CIRdb.
+# Chapter 2. Mitogenome-based analysis of admixture in CIRdb (December 2022)
 Pioneer genetic studies of mitochondrial DNA (mtDNA) in the late nineties evidenced specific NAF haplogroups testifying the aboriginal footprints and an important aboriginal maternal component persisting in the current inhabitants of the Canary Islands. Most of these analyses were based, at best, on mtDNA sequences of the 403 pb hypervariable region 1 along with a few coding sites in as much as a thousand unrelated donors in total of previous studies considered together. These low-resolution analyses introduce uncertainty and ascertainment bias, hindering the comparisons.
 
 Given that mitogenomes at full resolution and high quality can be effectively reconstructed from whole-exome and whole-genome sequences (<a href="#4">4</a>), we leveraged the sequence data being generated as part of CIRdb to conduct fine-grained analysis of admixture to precisely apportion the matrilineal genetic components to a level that was never achieved before (<a href="#5">5</a>). We notably increased the estimate of founder lineages surviving in the maternal gene pool of Canary Islanders, evidencing the continuity of a sizable proportion (nearly 50%) of the aboriginal maternal lineages in the current-day population. About half of the mtDNA lineages with sequence similarities with Iberian populations were ascribed to Galicians and Portuguese influences (Fig. 3). The results also supported the genetic connections between current Canary Islanders and the American continent.
@@ -92,7 +92,7 @@ Given that mitogenomes at full resolution and high quality can be effectively re
 
 <a name="chapter3"></a>
 
-# Chapter 3. <i>De novo</i> genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb. 
+# Chapter 3. <i>De novo</i> genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb (July 2025)
 
 Accurate reconstruction of individual human genomes is key as the Precision Medicine paradigm shift is embraced. However, de novo assemblies of large and complex genomes remain challenging. To deploy robust bioinformatics tools for de novo genome assembly to provide a comprehensive and unbiased understanding of a patient’s DNA sequence, we have tested the performance of hybrid assemblies leveraging short- and long-read technologies on reference and CIRdb materials (<a href="#6">6</a>). This allowed us to identify the best performing tools for the different stages involved (Fig. 4) and to set up and deploy our internal pipeline for implementing de novo assembly (https://github.com/genomicsITER/hybridassembly) to be able to reveal novel structural genomic features in biomedical studies in the future.
 
@@ -114,7 +114,7 @@ Accurate reconstruction of individual human genomes is key as the Precision Medi
 <!-- 
 <a name="chapter4"></a>
 
-# Chapter 4. Expanding CIRdb with whole-exome sequencing data.
+# Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)
 One central aim of the project has been to catalog the variation affecting exonic regions given the important biomedical implications of coding regions of the genome. To improve the population-specific reference catalog, we used whole-exome sequencing of the full CIRdb cohort to identify 387,555 single nucleotide variants and small indels (Fig. 5). For the study (<a href="#7">7</a>), we complemented the analyses with paired SNP array data and additional sequencing data for regions of interest. 
 
 <p align="center">
@@ -142,7 +142,7 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
 <!-- 
 <a name="chapter5"></a>
 
-# Chapter 5. Y chromosome analysis of admixture in CIRdb.
+# Chapter 5. Y chromosome analysis of admixture in CIRdb (xyz 2026)
 
 Studies are ongoing. Results to be announced.
 
@@ -163,7 +163,7 @@ NOTE: add the benckmarking of Y haplogroup classifiers.
 <a name="chapter6"></a>
 
 <!-- 
-# Chapter 6. Whole-genome sequence analysis in CIRdb.
+# Chapter 6. Whole-genome sequence analysis in CIRdb (xyz 2026)
 
 Studies are ongoing. Results to be announced.
 
@@ -210,7 +210,7 @@ Studies are ongoing. Results to be announced.
 <a name="Update logs"></a>
 ## Update logs
 
-> [1] November xx, 2025. This repository goes public.
+> [1] November xy, 2025. This repository goes public.
 
 > [2] Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) (September 2022).
 
