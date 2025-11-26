@@ -8,7 +8,7 @@
 
 ## Background
 
-The Canary Islands (Spain) are located ~100 km from the nearest point to the northwest African coast, with a population at the southwestern edge of Europe (Map-Figure). Before their conquest by Europeans in the 15th century, the archipelago was inhabited by aborigines for which diverse evidence supports an ancestral origin in the Berber population from North Africa. After the conquest and their incorporation to the Kingdom of Castile, the population of the Canary Islands was subject to important events of admixture and displacement of aboriginals by European populations and the slavery. The current Canary Islanders are nowadays a genetically admixed population for whom three main ancestries have been recognized: European (EUR), North African (NAF), and sub-Saharan African (SSA). Genetic isolation, the effects of sexual asymmetry evidenced by the historically progressive decrease in male indigenous lineages, and local adaptation events that may took place, have finally modeled a particular Canary Islander genetic makeup with an average of 75-83% of EUR ancestry, 17-23% NAF component, and 2% or less of SSA ancestry (<a href="#1">1</a>).
+The Canary Islands (Spain) are located ~100 km from the nearest point to the northwest African coast, with a population at the southwestern edge of Europe (Fig. 1). Before their conquest by Europeans in the 15th century, the archipelago was inhabited by aborigines for which diverse evidence supports an ancestral origin in the Berber population from North Africa. After the conquest and their incorporation to the Kingdom of Castile, the population of the Canary Islands was subject to important events of admixture and displacement of aboriginals by European populations and the slavery. The current Canary Islanders are nowadays a genetically admixed population for whom three main ancestries have been recognized: European (EUR), North African (NAF), and sub-Saharan African (SSA). Genetic isolation, the effects of sexual asymmetry evidenced by the historically progressive decrease in male indigenous lineages, and local adaptation events that may took place, have finally modeled a particular Canary Islander genetic makeup with an average of 75-83% of EUR ancestry, 17-23% NAF component, and 2% or less of SSA ancestry (<a href="#1">1</a>).
 
 <p align="center">
   <img src="images/Map-Figure.png" width="auto"/>
@@ -47,7 +47,7 @@ Many studies have established the grounds to increase the diversity in catalogs 
 # Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) 
 The CIRdb cohort was obtained from a total of 1,024 samples that were selected from donors (483 males, 541 females) from a general population cohort of the Canary Islands. Participating individuals self-reported having at least two generations of ancestors born on the same island and a lack of a personal history of cardiovascular, metabolic, immunologic, or cancer diseases at the time of recruitment. The island assigned to each individual corresponded to the island of origin of the four grandparents (<a href="#3">3</a>).
 
-The first genetic study of CIRdb relied on SNP array data as a first stage to efficiently characterize the global and local ancestry components of the cohort individuals, local substructure and inbreeding patterns. It also detected individuals that had cryptic family relationships with others in the cohort, allowing us to prioritize the samples for ulterior approaches. Finally, the study set the grounds for the overall design and methods to build the catalog, including combining whole-exome and whole-genome sequencing strategies to efficiently examine variation affecting gene coding regions while complimentary approaches in subsets of individuals were projected to cover non-exonic regions and to assess structural variation and alike, which are particularly beneficial to assess medically-relevant genes (CIRdb-Figure).
+The first genetic study of CIRdb relied on SNP array data as a first stage to efficiently characterize the global and local ancestry components of the cohort individuals, local substructure and inbreeding patterns. It also detected individuals that had cryptic family relationships with others in the cohort, allowing us to prioritize the samples for ulterior approaches. Finally, the study set the grounds for the overall design and methods to build the catalog, including combining whole-exome and whole-genome sequencing strategies to efficiently examine variation affecting gene coding regions while complimentary approaches in subsets of individuals were projected to cover non-exonic regions and to assess structural variation and alike, which are particularly beneficial to assess medically-relevant genes (Fig. 2).
 
 <p align="center">
   <img src="images/CIRdb-Figure.png" width="auto"/>
@@ -70,7 +70,7 @@ The first genetic study of CIRdb relied on SNP array data as a first stage to ef
 # Chapter 2. Mitogenome-based analysis of admixture in CIRdb.
 Pioneer genetic studies of mitochondrial DNA (mtDNA) in the late nineties evidenced specific NAF haplogroups testifying the aboriginal footprints and an important aboriginal maternal component persisting in the current inhabitants of the Canary Islands. Most of these analyses were based, at best, on mtDNA sequences of the 403 pb hypervariable region 1 along with a few coding sites in as much as a thousand unrelated donors in total of previous studies considered together. These low-resolution analyses introduce uncertainty and ascertainment bias, hindering the comparisons.
 
-Given that mitogenomes at full resolution and high quality can be effectively reconstructed from whole-exome and whole-genome sequences (<a href="#4">4</a>), we leveraged the sequence data being generated as part of CIRdb to conduct fine-grained analysis of admixture to precisely apportion the matrilineal genetic components to a level that was never achieved before (<a href="#5">5</a>). We notably increased the estimate of founder lineages surviving in the maternal gene pool of Canary Islanders, evidencing the continuity of a sizable proportion (nearly 50%) of the aboriginal maternal lineages in the current-day population. About half of the mtDNA lineages with sequence similarities with Iberian populations were ascribed to Galicians and Portuguese influences (AdmixtureMap-Figure). The results also supported the genetic connections between current Canary Islanders and the American continent.
+Given that mitogenomes at full resolution and high quality can be effectively reconstructed from whole-exome and whole-genome sequences (<a href="#4">4</a>), we leveraged the sequence data being generated as part of CIRdb to conduct fine-grained analysis of admixture to precisely apportion the matrilineal genetic components to a level that was never achieved before (<a href="#5">5</a>). We notably increased the estimate of founder lineages surviving in the maternal gene pool of Canary Islanders, evidencing the continuity of a sizable proportion (nearly 50%) of the aboriginal maternal lineages in the current-day population. About half of the mtDNA lineages with sequence similarities with Iberian populations were ascribed to Galicians and Portuguese influences (Fig. 3). The results also supported the genetic connections between current Canary Islanders and the American continent.
 
 <p align="center">
   <img src="images/AdmixtureMap-Figure.png" width="auto"/>
@@ -92,7 +92,7 @@ Given that mitogenomes at full resolution and high quality can be effectively re
 
 # Chapter 3. <i>De novo</i> genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb. 
 
-Accurate reconstruction of individual human genomes is key as the Precision Medicine paradigm shift is embraced. However, de novo assemblies of large and complex genomes remain challenging. To deploy robust bioinformatics tools for de novo genome assembly to provide a comprehensive and unbiased understanding of a patient’s DNA sequence, we have tested the performance of hybrid assemblies leveraging short- and long-read technologies on reference and CIRdb materials (<a href="#6">6</a>). This allowed us to identify the best performing tools for the different stages involved (Benchmarking&Pipeline-Figure) and to set up and deploy our internal pipeline for implementing de novo assembly (https://github.com/genomicsITER/hybridassembly) to be able to reveal novel structural genomic features in biomedical studies in the future.
+Accurate reconstruction of individual human genomes is key as the Precision Medicine paradigm shift is embraced. However, de novo assemblies of large and complex genomes remain challenging. To deploy robust bioinformatics tools for de novo genome assembly to provide a comprehensive and unbiased understanding of a patient’s DNA sequence, we have tested the performance of hybrid assemblies leveraging short- and long-read technologies on reference and CIRdb materials (<a href="#6">6</a>). This allowed us to identify the best performing tools for the different stages involved (Fig. 4) and to set up and deploy our internal pipeline for implementing de novo assembly (https://github.com/genomicsITER/hybridassembly) to be able to reveal novel structural genomic features in biomedical studies in the future.
 
 <p align="center">
   <img src="images/Benchmarking&Pipeline-Figure.png" width="auto"/>
@@ -109,11 +109,11 @@ Accurate reconstruction of individual human genomes is key as the Precision Medi
 <br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
-
+<!-- 
 <a name="chapter4"></a>
 
 # Chapter 4. Expanding CIRdb with whole-exome sequencing data.
-One central aim of the project has been to catalog the variation affecting exonic regions given the important biomedical implications of coding regions of the genome. To improve the population-specific reference catalog, we used whole-exome sequencing of the full CIRdb cohort to identify 387,555 single nucleotide variants and small indels (WES-variants-Figure). For the study (<a href="#7">7</a>), we complemented the analyses with paired SNP array data and additional sequencing data for regions of interest. 
+One central aim of the project has been to catalog the variation affecting exonic regions given the important biomedical implications of coding regions of the genome. To improve the population-specific reference catalog, we used whole-exome sequencing of the full CIRdb cohort to identify 387,555 single nucleotide variants and small indels (Fig. 5). For the study (<a href="#7">7</a>), we complemented the analyses with paired SNP array data and additional sequencing data for regions of interest. 
 
 <p align="center">
   <img src="images/WES-variants-Figure.png" width="auto"/>
@@ -130,7 +130,7 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
   <a href="#CIRdb" title="Up">
     <img src="images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
-</p>
+</p> -->
 
 <br>
 <br>
@@ -191,8 +191,8 @@ Studies are ongoing. Results to be announced.
 <a name="5">5</a>: García-Olivares V, Rubio-Rodríguez LA, Muñoz-Barrera A, Díaz-de Usera A, Jáspez D, Iñigo-Campos A, Rodríguez Pérez MDC, Cabrera de León A, Lorenzo-Salazar JM, González-Montelongo R, Cabrera VM, Flores C. Digging into the admixture strata of current-day Canary Islanders based on mitogenomes. iScience. 2022 Dec 29;26(1):105907. doi: https://doi.org/10.1016/j.isci.2022.105907
 
 <a name="6">6</a>: Muñoz-Barrera A, Rubio-Rodríguez LA, Jáspez D, Corrales A, Marcelino-Rodriguez I, Ortiz L, Mendoza P, Lorenzo-Salazar JM, González-Montelongo R, Flores C. Benchmarking of bioinformatics tools for the hybrid de novo assembly of human and non-human whole-genome sequencing data. Comput Struct Biotechnol J. 2025 Jul 13;27:3099-3109. doi: https://doi.org/10.1016/j.csbj.2025.07.020
-
-<a name="7">7</a>: Diaz-de Usera A, Rubio-Rodriguez LA, Muñoz-Barrera A, Lorenzo-Salazar JM, Guillen-Guio B, Jaspez D, Corrales A, Marcelino-Rodriguez I, Rodriguez-Perez M.C., Cabrera-de Leon A, Gonzalez-Montelongo R, Cruz-Guerrero R, Carracedo A, Carlos Flores. Expanding CIRdb, a comprehensive catalog of whole-exome sequencing data of Canary Islanders. MedRxiv 2025.
+ 
+<!-- <a name="7">7</a>: Diaz-de Usera A, Rubio-Rodriguez LA, Muñoz-Barrera A, Lorenzo-Salazar JM, Guillen-Guio B, Jaspez D, Corrales A, Marcelino-Rodriguez I, Rodriguez-Perez M.C., Cabrera-de Leon A, Gonzalez-Montelongo R, Cruz-Guerrero R, Carracedo A, Carlos Flores. Expanding CIRdb, a comprehensive catalog of whole-exome sequencing data of Canary Islanders. MedRxiv 2025. -->
 
 <p align="right">
   <a href="#CIRdb" title="Up">
@@ -208,4 +208,12 @@ Studies are ongoing. Results to be announced.
 <a name="Update logs"></a>
 ## Update logs
 
-> [1] November 13, 2025. This repository receives the first contents.
+> [1] November xx, 2025. This repository goes public.
+
+> [2] Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) (September 2022).
+
+> [3] Chapter 2. Mitogenome-based analysis of admixture in CIRdb (December 2022).
+
+> [4] Chapter 3. De novo genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb (July 2025).
+
+> [5] Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025).
