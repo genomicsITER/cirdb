@@ -208,7 +208,7 @@ Studies are ongoing. Results to be announced.
 <a name="Update logs"></a>
 ## Update logs
 
-<!-- > </i>Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)</i>. -->
+> April 9, 2026. Added the contents of <i>Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)</i>.
 
 > November 26, 2025. Public release of this repository. 
 
