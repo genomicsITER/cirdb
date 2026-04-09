@@ -23,9 +23,7 @@ Many studies have established the grounds to increase the diversity in catalogs 
   <li><a href="#chapter1">Chapter 1. Developing a reference genetic catalog of the Canary Islands population (CIRdb) (September 2022)</a></li>
   <li><a href="#chapter2">Chapter 2. Mitogenome-based analysis of admixture in CIRdb (December 2022)</a></li>
   <li><a href="#chapter3">Chapter 3. <i>De novo</i> genome assembly of human sequence data leveraging short and long reads to reveal novel genomic features in CIRdb (July 2025)</a></li>
-<!--
   <li><a href="#chapter4">Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)</a></li>
--->
   <!--
   <li><a href="#chapter5">Chapter 5. Y chromosome analysis of admixture in CIRdb (xyz 2026)</a></li>
   <li><a href="#chapter6">Chapter 6. Whole-genome sequence analysis in CIRdb (xyz 2026)</a></li>
@@ -111,7 +109,7 @@ Accurate reconstruction of individual human genomes is key as the Precision Medi
 <br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
-<!-- 
+
 <a name="chapter4"></a>
 
 # Chapter 4. Expanding CIRdb with whole-exome sequencing data (December 2025)
@@ -132,7 +130,7 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
   <a href="#CIRdb" title="Up">
     <img src="images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
-</p> -->
+</p>
 
 <br>
 <br>
