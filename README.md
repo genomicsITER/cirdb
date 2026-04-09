@@ -126,6 +126,12 @@ The study also revealed genomic regions showing large deviations in the local ge
 
 We expect this CIRdb resource to constitute a key resource to assist in the identification of genetic risks and in enabling laying the foundation for Genomic Medicine programs in the region.
 
+## Data availability
+
+Variant calls from this study have been deposited in EGA ([EGAS50000001726](https://ega-archive.org/studies/EGAS50000001726)).
+
+
+
 <p align="right">
   <a href="#CIRdb" title="Up">
     <img src="images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
