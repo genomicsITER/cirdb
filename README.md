@@ -128,8 +128,10 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
 
 ## Access to the results of this study
 
+<ul>
 <li>Variant calls from this study have been deposited in EGA [<a href="https://ega-archive.org/studies/EGAS50000001726">EGAS50000001726</a>].</li>
 <li>If you are interested in variant frequency data, a file with chromosome, position, alleles, rsID, and frequency will be available upon request.</li>
+</ul>
 
 ## Who should I contact for requesting access to the data?
 Requesters should contact genomica[at]iter[dot]es for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
