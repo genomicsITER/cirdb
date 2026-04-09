@@ -130,7 +130,7 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
 
 <ul>
 <li>Variant calls from this study have been deposited in EGA [<a href="https://ega-archive.org/studies/EGAS50000001726">EGAS50000001726</a>].</li>
-<li>If you are interested in variant frequency data, a file with chromosome, position, alleles, rsID, and frequency will be available upon request.</li>
+<li>If you are interested in variant frequency data, a file with chromosome, position, alleles, rsID, and frequency will be available upon request. Please, note that MNPs have been converted to biallelic positions.</li>
 </ul>
 
 ## Who should I contact for requesting access to the data?
