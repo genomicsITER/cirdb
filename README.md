@@ -126,11 +126,22 @@ The study also revealed genomic regions showing large deviations in the local ge
 
 We expect this CIRdb resource to constitute a key resource to assist in the identification of genetic risks and in enabling laying the foundation for Genomic Medicine programs in the region.
 
-## Data availability
+## Access to the results of this study
 
-Variant calls from this study have been deposited in EGA ([EGAS50000001726](https://ega-archive.org/studies/EGAS50000001726)).
+<li>Variant calls from this study have been deposited in EGA ([EGAS50000001726](https://ega-archive.org/studies/EGAS50000001726))</li>.
+<li>If you are interested in variant frequency data, a file with chromosome, position, alleles, rsID, and frequency will be available upon request.</li>
 
+## Who should I contact for requesting access to the data?
+Requesters should contact genomica[at]iter[dot]es for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
+Please, be aware that delays in obtaining a response with the instructions for downloading are expected during particular periods of the year.
+
+## Which information should I submit to access the variant summary data?
+Requesters should provide a signed document including the following information: full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used.
+
+The document should explicitly state that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
+
+A template document for the request is <a href="https://github.com/genomicsITER/cirdb/blob/main/Request_template.txt">here</a>.
 
 <p align="right">
   <a href="#CIRdb" title="Up">
