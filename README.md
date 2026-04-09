@@ -128,7 +128,7 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
 
 ## Access to the results of this study
 
-<li>Variant calls from this study have been deposited in EGA ([EGAS50000001726](https://ega-archive.org/studies/EGAS50000001726))</li>.
+<li>Variant calls from this study have been deposited in EGA [EGAS50000001726](https://ega-archive.org/studies/EGAS50000001726).</li>
 <li>If you are interested in variant frequency data, a file with chromosome, position, alleles, rsID, and frequency will be available upon request.</li>
 
 ## Who should I contact for requesting access to the data?
