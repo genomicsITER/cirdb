@@ -134,7 +134,7 @@ We expect this CIRdb resource to constitute a key resource to assist in the iden
 </ul>
 
 ## Who should I contact for requesting access to the data?
-Requesters should contact genomica[at]iter[dot]es for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
+Requesters should contact <b><i>genomica[at]iter[dot]es</i><b> for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
 Please, be aware that delays in obtaining a response with the instructions for downloading are expected during particular periods of the year.
 
