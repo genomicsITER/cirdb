@@ -211,7 +211,7 @@ Studies are ongoing. Results to be announced.
 
 <a name="6">6</a>: Muñoz-Barrera A, Rubio-Rodríguez LA, Jáspez D, Corrales A, Marcelino-Rodriguez I, Ortiz L, Mendoza P, Lorenzo-Salazar JM, González-Montelongo R, Flores C. Benchmarking of bioinformatics tools for the hybrid de novo assembly of human and non-human whole-genome sequencing data. Comput Struct Biotechnol J. 2025 Jul 13;27:3099-3109. doi: https://doi.org/10.1016/j.csbj.2025.07.020
  
-<a name="7">7</a>: Diaz-de Usera A, Rubio-Rodriguez LA, Muñoz-Barrera A, Lorenzo-Salazar JM, Guillen-Guio B, Jaspez D, Corrales A, Marcelino-Rodriguez I, Rodriguez-Perez M.C., Cabrera-de Leon A, Gonzalez-Montelongo R, Cruz-Guerrero R, Carracedo A, Carlos Flores. Expanding CIRdb, a comprehensive catalog of whole-exome sequencing data of Canary Islanders. MedRxiv 2025. doi: https://doi.org/10.1101/2025.11.24.25340885
+<a name="7">7</a>: Diaz-de Usera A, Rubio-Rodriguez LA, Muñoz-Barrera A, Lorenzo-Salazar JM, Guillen-Guio B, Jaspez D, Corrales A, Marcelino-Rodriguez I, Rodriguez-Perez M.C., Cabrera-de Leon A, Gonzalez-Montelongo R, Cruz-Guerrero R, Carracedo A, Carlos Flores. Expanding CIRdb, a comprehensive catalog of whole-exome sequencing data of Canary Islanders. iScience 2026 Aug 21;29(8):117146. doi: https://doi.org/10.1016/j.isci.2026.117146
 
 <p align="right">
   <a href="#CIRdb" title="Up">
@@ -226,6 +226,8 @@ Studies are ongoing. Results to be announced.
 
 <a name="Update logs"></a>
 ## Update logs
+
+> August 17, 2026. Published <i>'Expanding CIRdb, a comprehensive catalog of whole-exome sequencing data of Canary Islanders'</i> article.
 
 > April 9, 2026. Added the contents of <i>Chapter 4. Expanding CIRdb with whole-exome sequencing data.</i>
 
